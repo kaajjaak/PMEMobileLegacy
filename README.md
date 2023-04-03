@@ -1,7 +1,7 @@
 
 # Productivity Made Easy
 
-A Mobile App usage tracker that stores its data using online API connected to a MySQL database in order to work cross platform.
+A Mobile App usage tracker that stores its data using an online API connected to a MySQL database in order to syncronise cross platform.
 
 
 ## Information
