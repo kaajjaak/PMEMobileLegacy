@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PMEMobile.Views.HomePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Add Application" Clicked="AddApplication"/>
+            <Button Text="Refresh Applications" Clicked="Refresh" />
+            <ListView ItemTapped="listView_ItemTapped" x:Name="listView" Margin="0,200,0,0">
+                <ListView.ItemsSource>
+                    <x:Array Type="{x:Type x:String}">
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

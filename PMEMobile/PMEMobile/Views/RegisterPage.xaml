@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PMEMobile.Views.RegisterPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor x:Name="username" Placeholder="Username"/>
+            <Editor x:Name="pass1" Placeholder="Password"/>
+            <Editor x:Name="pass2" Placeholder="Confirm Password"/>
+            <Button Text="Register" Clicked="Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

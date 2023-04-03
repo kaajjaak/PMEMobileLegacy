@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PMEMobile.Views.LimitPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Editor x:Name="txtDays" Placeholder="Days" />
+            <Editor x:Name="txtHours" Placeholder="Hours" />
+            <Editor x:Name="txtMinutes" Placeholder="Minutes" />
+            <Editor x:Name="txtSeconds" Placeholder="Seconds" />
+            <Button Clicked="Button_Clicked" Text="Submit"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PMEMobile.Views.StartPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Button Text="Login" Margin="30,180,30,0" BackgroundColor="#AB1313" Clicked="LoginClicked" />
+            <Button Text="Register" Margin="30,60,30,0" BackgroundColor="#010000" Clicked="RegisterClicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
