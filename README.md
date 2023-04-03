@@ -33,6 +33,7 @@ I currently do own a Mac Mini since I bought one to compile the code for the rew
 
 - [Legacy PME Desktop](https://github.com/kaajjaak/PMEDesktopLegacy)
 - [Legacy API](https://github.com/kaajjaak/PMEAPILegacy)
+- [Legacy Android Version (unfinished)](https://github.com/kaajjaak/PMEAndroidLegacy)
 
 
 ## Author
