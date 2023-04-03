@@ -1,7 +1,7 @@
 
 # Productivity Made Easy
 
-A Mobile App usage tracker that stores its data using an online API connected to a MySQL database in order to syncronise cross platform.
+A Mobile App usage tracker that stores its data using an online API connected to a MySQL database in order to synchronise cross platform.
 
 
 ## Information
@@ -31,8 +31,8 @@ I currently do own a Mac Mini since I bought one to compile the code for the rew
 
 ## Related
 
-Desktop Version:
-[Legacy PME Desktop](https://github.com/kaajjaak/PMEDesktopLegacy)
+- [Legacy PME Desktop](https://github.com/kaajjaak/PMEDesktopLegacy)
+- [Legacy API](https://github.com/kaajjaak/PMEAPILegacy)
 
 
 ## Author
